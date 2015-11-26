@@ -49,7 +49,6 @@ def getGuess():
     str = raw_input("Enter your guess: ")
     return;
 
-
 #-----------------------------------------------
 #FILE IO
 

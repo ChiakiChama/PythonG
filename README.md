@@ -1,0 +1,2 @@
+# PythonG
+Practice in python
